@@ -1,3 +1,14 @@
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+ehthumbs.db
+
+# Archivos de respaldo
+*~
+*.swp
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
