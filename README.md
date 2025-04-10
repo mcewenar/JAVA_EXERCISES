@@ -4,7 +4,19 @@ This repository contains a collection of programming exercises and challenges in
 
 ## 📁 Project Structure
 
-├── gradle/ # Gradle configuration ├── src/ │ ├── main/java/ # Main source code │ └── test/java/ # Test code (optional) ├── build.gradle.kts # Project configuration (Kotlin DSL) ├── settings.gradle.kts # Module settings ├── .gitignore # Git ignore rules ├── LICENSE # MIT License └── Ejercicios_Pseint.txt # Exercise reference file
+.
+├── gradle/                  # Gradle configuration
+├── src/
+│   ├── main/
+│   │   └── java/            # Main source code
+│   └── test/
+│       └── java/            # Test code (optional)
+├── build.gradle.kts         # Project configuration (Kotlin DSL)
+├── settings.gradle.kts      # Module settings
+├── .gitignore               # Git ignore rules
+├── LICENSE                  # MIT License
+└── Ejercicios_Pseint.txt    # Exercise reference file
+
 
 
 ## 🚀 How to Run the Project
