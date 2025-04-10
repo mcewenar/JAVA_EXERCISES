@@ -1,17 +1,17 @@
 # JAVA_CHALLENGES 💻
 
-Este repositorio contiene una serie de ejercicios y retos de programación en **Java**, diseñados para practicar lógica, estructuras de control y fundamentos del lenguaje.
+This repository contains a collection of programming exercises and challenges in **Java**, designed to help practice logic, control structures, and core Java concepts.
 
-## 📁 Estructura del Proyecto
+## 📁 Project Structure
+
+├── gradle/ # Gradle configuration ├── src/ │ ├── main/java/ # Main source code │ └── test/java/ # Test code (optional) ├── build.gradle.kts # Project configuration (Kotlin DSL) ├── settings.gradle.kts # Module settings ├── .gitignore # Git ignore rules ├── LICENSE # MIT License └── Ejercicios_Pseint.txt # Exercise reference file
 
 
+## 🚀 How to Run the Project
 
+Make sure you have Java 17+ (or your preferred version) installed.
 
-## 🚀 Cómo ejecutar el proyecto
-
-Asegúrate de tener instalado Java 17+ (o la versión que uses).
-
-Para compilar y ejecutar:
+To build and run the project using Gradle:
 
 ```bash
 ./gradlew build
