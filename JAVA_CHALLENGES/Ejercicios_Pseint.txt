@@ -1,0 +1,108 @@
+Nivel 1: Principiante – Fundamentos de programación
+Objetivo: familiarizarse con variables, operaciones básicas, condicionales y ciclos.
+
+1) Leer dos números y mostrar su suma.
+
+2) Calcular el área de un triángulo.
+
+3) Determinar si un número es par o impar.
+
+4) Leer tres números y mostrar el mayor.
+
+5) Mostrar los primeros 10 números naturales.
+
+6) Calcular el factorial de un número.
+
+7) Generar la tabla de multiplicar de un número.
+
+8) Contar cuántos números positivos, negativos y ceros hay entre 10 números ingresados.
+
+9) Validar si un año es bisiesto.
+
+10) Crear un menú con opciones básicas (suma, resta, salir).
+
+
+_____________________________________________________________________________________________________________________________
+
+
+Nivel 2: Intermedio – Control de flujo, arreglos y funciones
+Objetivo: dominar estructuras de control más complejas, arreglos y funciones/módulos.
+
+11) Crear un programa que valide una contraseña (3 intentos).
+
+12) Leer un arreglo de 10 números y mostrar el promedio.
+
+13) Contar cuántos elementos de un arreglo son pares e impares.
+
+14) Ordenar un arreglo de forma ascendente (burbuja o selección).
+
+15) Buscar un número dentro de un arreglo (búsqueda secuencial).
+
+16) Convertir de decimal a binario sin usar funciones nativas.
+
+17) Calcular la serie de Fibonacci hasta el N-ésimo término.
+
+18) Crear una función que verifique si un número es primo.
+
+19) Crear una calculadora con funciones (suma, resta, mult, div).
+
+20) Simular un cajero automático con saldo, retiros y depósitos.
+
+
+_____________________________________________________________________________________________________________________________
+
+
+Nivel 3: Avanzado – Matrices, algoritmos clásicos y recursión
+Objetivo: abordar problemas que requieren comprensión de estructuras más complejas.
+
+21) Sumar dos matrices de 3x3.
+
+22) Multiplicar matrices.
+
+23) Buscar un número en una matriz y devolver su posición.
+
+24) Generar una matriz identidad de NxN.
+
+25) Dibujar un patrón de triángulo con asteriscos.
+
+26) Implementar una función recursiva para el factorial.
+
+27) Calcular la potencia de un número con recursión.
+
+28) Resolver la Torre de Hanoi de N discos.
+
+29) Simular el juego del ahorcado (solo texto).
+
+30) Crear un generador de contraseñas aleatorias simples.
+
+
+_____________________________________________________________________________________________________________________________
+
+
+
+Nivel 4: Experto – Simulación, lógica compleja y algoritmos de optimización
+Objetivo: resolver problemas con lógica robusta y pensamiento algorítmico.
+
+31) Simular una agenda telefónica (agregar, buscar, eliminar contactos).
+
+32) Crear un sistema de inventario simple (con estructura de datos).
+
+33) Resolver el problema del cambio de monedas (mínimo de monedas).
+
+34) Simular una cola de atención (FIFO) con arreglos.
+
+35) Resolver el problema de las N reinas (con backtracking).
+
+36) Implementar el algoritmo de Euclides para el MCD.
+
+37) Simular un sistema de reservas de asientos (cine).
+
+38) Generar números aleatorios sin repetir en un bingo.
+
+39) Resolver laberintos con backtracking.
+
+40) Crear un minijuego estilo RPG basado en texto (con menú, stats, enemigos).
+
+
+
+
