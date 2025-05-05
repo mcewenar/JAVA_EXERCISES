@@ -3,7 +3,6 @@ package co.com.ias;
 import java.io.IOException;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static co.com.ias.OddOneOut.findOdd;

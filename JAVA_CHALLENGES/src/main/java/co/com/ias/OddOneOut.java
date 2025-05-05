@@ -61,7 +61,7 @@ public class OddOneOut {
         var pattern = new HashMap<String, List<String>>();
         for (String s : series) {
             int size = s.length();
-            char[] cs = new char[size];
+            char[] cs = new char[size- 1];
             for (int i = 0; i < size - 1; ++i) {
                 cs[i] = (char) (s.charAt(i + 1) - s.charAt(i));
             }
