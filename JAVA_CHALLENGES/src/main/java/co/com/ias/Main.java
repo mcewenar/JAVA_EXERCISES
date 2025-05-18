@@ -5,15 +5,24 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static co.com.ias.Exercise10.menuOperation;
-import static co.com.ias.Exercise7.tableMultiply;
-import static co.com.ias.Exercise8.countNumbersTypes;
-import static co.com.ias.Exercise9.validateLeapYear;
-import static co.com.ias.OddOneOut.findOdd;
-import static co.com.ias.OddOneOut.findOdd2;
+
+import static co.com.ias.HappyNumberMathChallenge.mathChallenge;
+import static co.com.ias.StringFormatChallenge.stringChallenge;
+
 
 public class Main {
     public static void main(String[] args) throws IOException {
+
+        int[] arrayInt = new int[6];
+        arrayInt[0] = 1;
+        arrayInt[1] = 3;
+        arrayInt[2] = 6;
+        arrayInt[3] = -6;
+        arrayInt[4] = 7;
+        arrayInt[5] = 4;
+
+
+        //System.out.println(findFirstMissingPositive(arrayInt));
 
         List<String> arrayString = new ArrayList<>();
         arrayString.add("ACB");
@@ -46,7 +55,9 @@ public class Main {
 
         //validateLeapYear(2012);
 
-        System.out.println(menuOperation());
+        //System.out.println(menuOperation());
+        //System.out.println(mathChallenge(1111111));
+        System.out.println(stringChallenge("MrtyNNgMM"));
 
     }
 }
