@@ -1,45 +1,33 @@
 package co.com.ias;
 
-
-
 public class DiamondAsterisks {
 
     public void diamondPattern(int n) {
 
-        for(int i = 1; i <= n; i++ ) {
-            //Blank space:
+        // Upper part of the diamond
+        for (int i = 1; i <= n; i++) {
+            // Spaces
             for (int j = i; j < n; j++) {
-                System.out.println(" ");
-
+                System.out.print(" ");
             }
-            //asterisk
-            for (int j = 1; j <= (2* i - 1); j++) {
-                System.out.println("*");
+            // Asterisks
+            for (int j = 1; j <= (2 * i - 1); j++) {
+                System.out.print("*");
             }
-
-            System.out.println();
-
-
-
+            System.out.println(); // Move to next line
         }
 
-        for(int i = n -1; i >= 1; i--) {
-            //spaces before the asterisk
-            for(int j = n; j> i; j--) {
-                System.out.println(" ");
+        // Lower part of the diamond
+        for (int i = n - 1; i >= 1; i--) {
+            // Spaces
+            for (int j = n; j > i; j--) {
+                System.out.print(" ");
             }
-
-            //Asterisk
-            for(int j = 1; j<= (2*i-1); j++) {
-                System.out.println("*");
+            // Asterisks
+            for (int j = 1; j <= (2 * i - 1); j++) {
+                System.out.print("*");
             }
-
-            System.out.println();
-
+            System.out.println(); // Move to next line
         }
-
-
-
     }
-
 }
