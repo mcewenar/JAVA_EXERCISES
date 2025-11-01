@@ -12,7 +12,7 @@ import static co.com.ias.StringFormatChallenge.stringChallenge;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-
+        /*
         int[] arrayInt = new int[6];
         arrayInt[0] = 1;
         arrayInt[1] = 3;
@@ -59,5 +59,18 @@ public class Main {
         //System.out.println(mathChallenge(1111111));
         System.out.println(stringChallenge("MrtyNNgMM"));
 
+        int[] arrayString4 = new int[5];
+        arrayString4[0] = 1;
+        arrayString4[1] = 3;
+        arrayString4[2] = 6;
+        arrayString4[3] = 4;
+        arrayString4[4] = 5;
+
+
+        QaracterTest value = new QaracterTest();
+
+        System.out.println("HOLA HOLA 2 " +
+                value.solution(arrayString4));
+        */
     }
 }
