@@ -10,7 +10,9 @@ import static co.com.ias.HappyNumberMathChallenge.mathChallenge;
 import static co.com.ias.StringFormatChallenge.stringChallenge;
 
 
-public class Main {
+/*public class Main {
+ */
+/*
     public static void main(String[] args) throws IOException {
         /*
         int[] arrayInt = new int[6];
@@ -71,6 +73,5 @@ public class Main {
 
         System.out.println("HOLA HOLA 2 " +
                 value.solution(arrayString4));
-        */
-    }
-}
+        *
+*/
